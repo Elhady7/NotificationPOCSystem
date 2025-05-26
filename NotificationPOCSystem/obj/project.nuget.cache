@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWKBRNiLhgQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\helhady\\source\\repos\\NotificationPOCSystem\\NotificationPOCSystem\\NotificationPOCSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\helhady\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\helhady\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
